@@ -1,0 +1,23 @@
+{
+"products":
+[{"id":1,"name":"Arctic tern","category":"Turquoise"},
+{"id":2,"name":"Western spotted skunk","category":"Pink"},
+{"id":3,"name":"Tawny frogmouth","category":"Green"},
+{"id":4,"name":"Jabiru stork","category":"Fuscia"},
+{"id":5,"name":"Spotted-tailed quoll","category":"Khaki"},
+{"id":6,"name":"Skunk, striped","category":"Fuscia"},
+{"id":7,"name":"Coatimundi, white-nosed","category":"Puce"},
+{"id":8,"name":"Cheetah","category":"Green"},
+{"id":9,"name":"Springhare","category":"Mauv"},
+{"id":10,"name":"Stork, openbill","category":"Yellow"},
+{"id":11,"name":"Gazelle, grant's","category":"Violet"},
+{"id":12,"name":"Waterbuck, common","category":"Goldenrod"},
+{"id":13,"name":"Dove, little brown","category":"Aquamarine"},
+{"id":14,"name":"White-tailed deer","category":"Blue"},
+{"id":15,"name":"Black rhinoceros","category":"Red"},
+{"id":16,"name":"Peregrine falcon","category":"Puce"},
+{"id":17,"name":"Darter, african","category":"Khaki"},
+{"id":18,"name":"Chameleon (unidentified)","category":"Orange"},
+{"id":19,"name":"Secretary bird","category":"Red"},
+{"id":20,"name":"Gelada baboon","category":"Crimson"}]
+}
